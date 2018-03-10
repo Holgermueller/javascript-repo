@@ -6,4 +6,4 @@
 
 3. run gulp
 
-4. 
+4. get remote set-url origin http://whatever
