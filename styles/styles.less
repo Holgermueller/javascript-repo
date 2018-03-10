@@ -1,0 +1,18 @@
+/*This is a preprocessor run through gulp
+*/
+
+@color1: #123455; /*variables*/
+@font: helvetica;
+
+.some-class {
+    color: @color1; /*applies to wherever color is used*/
+    font-family: @font;
+    margin: 10px 5px;
+    border-radius: 5px;
+}
+
+.bigger-class {
+    .some-class {
+        margin-top: 5px;
+    }
+}

@@ -1,0 +1,21 @@
+p.p-tag {
+    color: magenta;
+}
+
+.p-tag {
+    color: peru;
+}
+
+p {
+    font-size: 48px;
+    font-weight: bold;
+    color: green !important;  /* use important sparingly, if at all */
+}
+
+p {
+    color: tomato;
+}
+
+p {
+    color: blue;
+}
