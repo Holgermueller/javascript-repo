@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/joshboyan/javaScriptExercises#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.10",
-    "eslint": "^7.5.0",
+    "browser-sync": "^2.26.12",
+    "eslint": "^7.8.1",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
     "gulp": "^4.0.2",
